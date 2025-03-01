@@ -1,25 +1,25 @@
-# 🤖 Agent-Based System
+# 👨‍💻 Agent-Based System
 
-## 📌 Project Overview
+## 1️⃣ Project Overview
 The **Agent-Based System** is a software framework designed to simulate and analyze interactions between autonomous agents in a dynamic environment. This system enables modeling of real-world scenarios such as traffic simulations, market dynamics, and distributed computing.
 
 ![Screenshot 2025-03-01 203544](https://github.com/user-attachments/assets/dcc6c25c-98be-40cd-ba4b-bcd7cf30a85a)
 
-## 🚀 Features
+## 2️⃣ Features
 - ✅ Multi-Agent Interaction 🤝
 - ✅ Adaptive Decision Making 🧠
 - ✅ Scalable & Modular Architecture 📈
 - ✅ Real-Time Simulation ⏳
 - ✅ Visualization & Analytics 📊
 
-## 🏗️ Technologies Used
+## 3️⃣ Technologies Used
 - 🐍 Python
 - 🏛️ JADE (Java Agent Development Framework)
 - 🌐 Flask (For Web-Based Agent Communication)
 - 🗃️ MySQL (For Data Storage)
 - 📊 Matplotlib & Seaborn (For Data Visualization)
 
-## 📂 Project Structure
+## 4️⃣ Project Structure
 ```
 📁 Agent-Based-System
  ├── 📂 src            # Source Code
@@ -30,7 +30,7 @@ The **Agent-Based System** is a software framework designed to simulate and anal
  └── requirements.txt  # Dependencies
 ```
 
-## ⚙️ Installation
+## 5️⃣ Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/SE-LAPS/Agent-Based-System.git
@@ -54,7 +54,7 @@ The **Agent-Based System** is a software framework designed to simulate and anal
    http://localhost:5000
    ```
 
-## 🧪 Testing
+##  Testing
 Run the test suite to ensure everything is working correctly:
 ```sh
 pytest tests/

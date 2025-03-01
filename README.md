@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 The **Agent-Based System** is a software framework designed to simulate and analyze interactions between autonomous agents in a dynamic environment. This system enables modeling of real-world scenarios such as traffic simulations, market dynamics, and distributed computing.
 
+![Screenshot 2025-03-01 203544](https://github.com/user-attachments/assets/dcc6c25c-98be-40cd-ba4b-bcd7cf30a85a)
+
 ## 🚀 Features
 - ✅ Multi-Agent Interaction 🤝
 - ✅ Adaptive Decision Making 🧠

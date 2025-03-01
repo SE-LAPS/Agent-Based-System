@@ -33,7 +33,7 @@ The **Agent-Based System** is a software framework designed to simulate and anal
 ## ⚙️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/agent-based-system.git
+   git clone https://github.com/SE-LAPS/Agent-Based-System.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -71,6 +71,5 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 This project is licensed under the MIT License.
 
 ## 📞 Contact
-📧 Email: your-email@example.com  
-🌍 Website: [Your Website](https://your-website.com)  
-🐦 Twitter: [@YourHandle](https://twitter.com/YourHandle)
+
+🌍 Website: [Your Website](https://codeshow-lapz.web.app)  

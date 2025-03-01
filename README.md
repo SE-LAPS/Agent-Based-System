@@ -44,7 +44,7 @@ The **Agent-Based System** is a software framework designed to simulate and anal
    pip install -r requirements.txt
    ```
 
-## 🏃‍♂️ Usage
+## 6️⃣ Usage
 1. Run the agent system:
    ```sh
    python main.py
@@ -54,22 +54,22 @@ The **Agent-Based System** is a software framework designed to simulate and anal
    http://localhost:5000
    ```
 
-##  Testing
+## 7️⃣ Testing
 Run the test suite to ensure everything is working correctly:
 ```sh
 pytest tests/
 ```
 
-## 🌟 Contributing
+## 8️⃣ Contributing
 Contributions are welcome! Feel free to fork this repo and submit pull requests. Follow these steps:
 1. Fork the repo
 2. Create a new branch (`feature-new-agent`)
 3. Commit your changes
 4. Push to your branch and submit a PR
 
-## 📜 License
+## 9️⃣ License
 This project is licensed under the MIT License.
 
-## 📞 Contact
+## 🔟 Contact
 
 🌍 Website: [Your Website](https://codeshow-lapz.web.app)  

@@ -6,11 +6,11 @@ The **Agent-Based System** is a software framework designed to simulate and anal
 ![Screenshot 2025-03-01 203544](https://github.com/user-attachments/assets/dcc6c25c-98be-40cd-ba4b-bcd7cf30a85a)
 
 ## 2️⃣ Features
-- ✅ Multi-Agent Interaction 🤝
-- ✅ Adaptive Decision Making 🧠
-- ✅ Scalable & Modular Architecture 📈
-- ✅ Real-Time Simulation ⏳
-- ✅ Visualization & Analytics 📊
+- ✅ Multi-Agent Interaction 
+- ✅ Adaptive Decision Making 
+- ✅ Scalable & Modular Architecture 
+- ✅ Real-Time Simulation 
+- ✅ Visualization & Analytics 
 
 ## 3️⃣ Technologies Used
 - 🐍 Python
